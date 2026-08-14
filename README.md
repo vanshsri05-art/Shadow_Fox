@@ -134,13 +134,13 @@ ShadowFox-Data-Science-Internship/
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Vansh Srivastava
 
 B.Tech – Computer Science and Engineering (CSE)
 
-🏢 Internship
+## 🏢 Internship
 
 ShadowFox – Data Science Internship
 
