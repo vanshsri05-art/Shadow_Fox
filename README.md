@@ -4,21 +4,33 @@ ShadowFox Data Science Internship: A collection of Beginner, Intermediate, and A
 
 Welcome to my GitHub repository for the **ShadowFox Data Science Internship**.
 
-This repository contains my completed work across the three internship levels:
-
-- 🟢 Beginner
-- 🟡 Intermediate
-- 🔴 Advanced
-
-The projects demonstrate practical skills in Python, data analysis, data visualization, exploratory data analysis, and data science.
+This repository contains my work completed during the internship across the **Beginner, Intermediate, and Advanced** levels. The projects focus on Python programming, data analysis, data visualization, exploratory data analysis, and practical data science concepts.
 
 ---
 
-## 📚 Internship Tasks
+## 👨‍💻 Author
 
-### 🟢 Beginner Task
+**Vansh Srivastava**
 
-**Topic:** Python Data Visualization Documentation
+**Degree:** B.Tech – Computer Science and Engineering (CSE)
+
+---
+
+## 🏢 Internship
+
+**Organization:** ShadowFox
+
+**Internship Domain:** Data Science
+
+**Internship Program:** ShadowFox Data Science Internship
+
+---
+
+# 📚 Internship Tasks
+
+## 🟢 Beginner Level
+
+### Python Data Visualization Libraries Documentation – Matplotlib and Seaborn
 
 The Beginner Task focuses on creating a comprehensive documentation guide for two Python visualization libraries:
 
@@ -28,22 +40,58 @@ The Beginner Task focuses on creating a comprehensive documentation guide for tw
 The documentation covers:
 
 - Library overview
-- Features
-- Use cases
+- Key features
+- Installation
+- Advantages and limitations
+- Typical use cases
 - Different graph types
 - Python code examples
 - Visualization best practices
-- Comparison between Matplotlib and Seaborn
+- Matplotlib vs Seaborn comparison
+- Real-world applications
+- Conclusion and references
 
-📁 [View Beginner Task](./Beginner/)
+### Graphs Covered
+
+**Matplotlib:**
+- Line Plot
+- Scatter Plot
+- Bar Chart
+- Histogram
+- Pie Chart
+- Area Chart
+- Box Plot
+- Stem Plot
+- Stack Plot
+- Error Bar Plot
+
+**Seaborn:**
+- Scatter Plot
+- Line Plot
+- Bar Plot
+- Count Plot
+- Box Plot
+- Violin Plot
+- Histogram
+- KDE Plot
+- Heatmap
+- Regression Plot
+
+### Beginner Deliverable
+
+The completed documentation is provided as:
+
+`Matplotlib_Seaborn_Documentation.pdf`
+
+📁 [Open Beginner Task](./Beginner/)
 
 ---
 
-### 🟡 Intermediate Task
+## 🟡 Intermediate Level
 
-**Topic:** Data Analysis and Visualization
+### Data Analysis and Visualization
 
-The Intermediate Task focuses on applying Python data science libraries to a real-world dataset.
+The Intermediate Task focuses on applying Python data science techniques to a real-world dataset.
 
 The project includes:
 
@@ -53,34 +101,11 @@ The project includes:
 - Exploratory Data Analysis
 - Statistical analysis
 - Data visualization
-- Pattern and trend identification
+- Pattern identification
+- Trend analysis
 - Insight generation
 
-📁 [View Intermediate Task](./Intermediate/)
-
----
-
-### 🔴 Advanced Task
-
-**Topic:** Advanced Data Science Project
-
-The Advanced Task focuses on applying advanced data analysis and visualization techniques to a larger and more complex dataset.
-
-The project includes:
-
-- Data preprocessing
-- Exploratory Data Analysis
-- Advanced visualization
-- Statistical analysis
-- Pattern identification
-- Analytical insights
-- Results interpretation
-
-📁 [View Advanced Task](./Advanced/)
-
----
-
-## 🛠️ Technologies Used
+### Technologies Used
 
 - Python
 - Pandas
@@ -91,25 +116,78 @@ The project includes:
 - Git
 - GitHub
 
+📁 [Open Intermediate Task](./Intermediate/)
+
 ---
 
-## 🎯 Learning Objectives
+## 🔴 Advanced Level
 
-Through this internship, I developed practical knowledge of:
+### Advanced Data Science Project
+
+The Advanced Task focuses on applying advanced data science and analytical techniques to a more complex dataset.
+
+The project includes:
+
+- Data preprocessing
+- Exploratory Data Analysis
+- Advanced data visualization
+- Statistical analysis
+- Pattern identification
+- Trend analysis
+- Analytical insights
+- Results interpretation
+
+### Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+📁 [Open Advanced Task](./Advanced/)
+
+---
+
+# 🛠️ Technologies and Tools
+
+The internship projects use the following technologies and tools:
+
+| Technology / Tool | Purpose |
+|---|---|
+| Python | Programming and data analysis |
+| Pandas | Data manipulation and analysis |
+| NumPy | Numerical computing |
+| Matplotlib | Data visualization |
+| Seaborn | Statistical visualization |
+| Jupyter Notebook | Interactive data analysis |
+| Git | Version control |
+| GitHub | Project hosting and documentation |
+
+---
+
+# 🎯 Learning Objectives
+
+Through this internship, I am developing practical knowledge and skills in:
 
 - Python programming
+- Data manipulation
 - Data cleaning
 - Data preprocessing
 - Exploratory Data Analysis
-- Data visualization
 - Statistical analysis
+- Data visualization
+- Pattern and trend identification
 - Data interpretation
 - Problem solving
 - Git and GitHub
+- Technical documentation
+- Presenting analytical findings
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```text
 ShadowFox-Data-Science-Internship/
@@ -131,21 +209,3 @@ ShadowFox-Data-Science-Internship/
     ├── dataset/
     ├── notebook/
     └── visualizations/
-
----
-
-## 👨‍💻 Author
-
-Vansh Srivastava
-
-B.Tech – Computer Science and Engineering (CSE)
-
-## 🏢 Internship
-
-ShadowFox – Data Science Internship
-
-📌 Status
-Level	Status
-🟢 Beginner	Completed
-🟡 Intermediate	In Progress
-🔴 Advanced	In Progress
