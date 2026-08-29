@@ -113,7 +113,7 @@ PS = (CP × W_CP)
 
 ---
 
-**# 🔍 Data Collection Process**
+## 🔍 Data Collection Process
 
 For each ball bowled in the selected innings, the fielding effort is recorded according to the defined dataset features.
 
