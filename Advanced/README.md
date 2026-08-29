@@ -111,7 +111,9 @@ PS = (CP × W_CP)
    + (DH × W_DH)
    + RS
 
-🔍 Data Collection Process
+---
+
+**# 🔍 Data Collection Process**
 
 For each ball bowled in the selected innings, the fielding effort is recorded according to the defined dataset features.
 
@@ -126,6 +128,54 @@ Record the Throw category.
 Record runs saved or conceded.
 Store the venue and match information.
 Repeat the process for the complete innings.
+
+📈 Performance Analysis
+
+The collected fielding data is aggregated for the three selected players.
+The sample Performance Matrix gives the following results:
+| Player           | Clean Picks | Good Throws | Catches | Dropped Catches | Stumpings | Run Outs | Missed Run Outs | Direct Hits | Runs Saved | Performance Score |
+| ---------------- | ----------: | ----------: | ------: | --------------: | --------: | -------: | --------------: | ----------: | ---------: | ----------------: |
+| Suryakumar Yadav |           5 |           5 |       1 |               1 |         0 |        0 |               0 |           0 |          1 |                11 |
+| Ravindra Jadeja  |           8 |           5 |       0 |               1 |         0 |        0 |               0 |           1 |          3 |                15 |
+| Axar Patel       |           7 |           6 |       0 |               0 |         0 |        0 |               1 |           0 |          1 |                12 |
+
+
+🏆 Key Findings
+
+Suryakumar Yadav
+
+Strength:
+Produced a match-defining catch under pressure.
+Recorded 5 clean picks and 5 good throws.
+The catch contributes significantly to the Performance Score.
+
+Area for Improvement:
+Recorded one dropped catch.
+Catching reliability under difficult/high-pressure situations can be improved.
+
+Ravindra Jadeja
+
+Strength:
+Had the highest Performance Score in the sample: 15.
+Recorded 8 clean picks.
+Recorded 5 good throws.
+Produced a direct hit.
+Recorded 3 runs saved.
+
+Area for Improvement:
+Recorded a dropped catch.
+Death-over catching under pressure can be a specific area for improvement.
+
+Axar Patel
+
+Strength:
+Recorded 7 clean picks and 6 good throws.
+Had no dropped catches in the sample.
+Demonstrated reliable fielding during the middle overs.
+
+Area for Improvement:
+Recorded one missed run-out opportunity.
+An early fumble indicates an opportunity to improve decision-making and handling under pace.
 
 👥 Team-Level Analysis
 
