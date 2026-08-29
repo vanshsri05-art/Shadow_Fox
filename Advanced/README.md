@@ -223,11 +223,15 @@ PS = (CP × W_CP)
 ## 👨‍💻 Author
 
 Vansh Srivastava
+
 B.Tech – Computer Science and Engineering (CSE)
+
 ShadowFox Data Science Intern
 
 ## 🏢 Internship
 
 Organization: ShadowFox
+
 Domain: Data Science
+
 Level: Advanced
