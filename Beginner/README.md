@@ -1,11 +1,3 @@
-
----
-
-# 2. Beginner `README.md`
-
-Inside the **Beginner** folder, create another `README.md`:
-
-```markdown
 # 🟢 ShadowFox Beginner Task
 
 ## Python Visualization Libraries Documentation
