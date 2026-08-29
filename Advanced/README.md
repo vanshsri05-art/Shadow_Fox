@@ -208,6 +208,7 @@ Applying a scoring model to real-world data
 ## 🧮 Performance Score
 
 The fielding performance is evaluated using the following formula:
+
 PS = (CP × W_CP)
    + (GT × W_GT)
    + (C × W_C)
