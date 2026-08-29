@@ -96,23 +96,6 @@ The `Runs` field represents the impact of the fielding effort:
 
 ---
 
-## 🧮 Performance Score
-
-The fielding performance is evaluated using the following formula:
-
-```text
-PS = (CP × W_CP)
-   + (GT × W_GT)
-   + (C × W_C)
-   − (DC × W_DC)
-   + (ST × W_ST)
-   + (RO × W_RO)
-   − (MRO × W_MRO)
-   + (DH × W_DH)
-   + RS
-
----
-
 ## 🔍 Data Collection Process
 
 For each ball bowled in the selected innings, the fielding effort is recorded according to the defined dataset features.
@@ -129,7 +112,7 @@ Record runs saved or conceded.
 Store the venue and match information.
 Repeat the process for the complete innings.
 
-📈 Performance Analysis
+## 📈 Performance Analysis
 
 The collected fielding data is aggregated for the three selected players.
 The sample Performance Matrix gives the following results:
@@ -140,7 +123,7 @@ The sample Performance Matrix gives the following results:
 | Axar Patel       |           7 |           6 |       0 |               0 |         0 |        0 |               1 |           0 |          1 |                12 |
 
 
-🏆 Key Findings
+## 🏆 Key Findings
 
 Suryakumar Yadav
 
@@ -177,19 +160,19 @@ Area for Improvement:
 Recorded one missed run-out opportunity.
 An early fumble indicates an opportunity to improve decision-making and handling under pace.
 
-👥 Team-Level Analysis
+## 👥 Team-Level Analysis
 
 All three players achieved positive Performance Scores despite recording some costly errors. The analysis demonstrates that consistent low-risk fielding actions such as clean picks and accurate throws can contribute significantly to overall fielding performance. The analysis highlights two main development priorities:
 Catching reliability under pressure
 Run-out decision-making in fast-moving situations
 
-📊 Main Insight
+## 📊 Main Insight
 
 The Performance Score provides a more meaningful measure of fielding impact than simply counting the number of fielding events.
 High-impact actions such as catches, run-outs, and direct hits receive greater weights, while dropped catches and missed run-outs reduce the score.
 Therefore, the scoring model helps distinguish between frequent routine actions and fewer but more influential fielding events.
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 Microsoft Excel
 Python
 Pandas
@@ -198,7 +181,7 @@ Matplotlib
 Seaborn
 Jupyter Notebook
 
-📄 Deliverable
+## 📄 Deliverable
 
 The ShadowFox Advanced Task requires a well-organized spreadsheet or database containing the complete fielding data for the selected match.
 The project workbook contains:
@@ -209,7 +192,7 @@ Performance Matrix
 Performance Scores
 Fielding analysis and insights
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 Through this task, I developed practical experience in:
 Cricket data analysis
@@ -222,13 +205,27 @@ Identifying player strengths and weaknesses
 Creating analytical insights
 Applying a scoring model to real-world data
 
-👨‍💻 Author
+## 🧮 Performance Score
+
+The fielding performance is evaluated using the following formula:
+PS = (CP × W_CP)
+   + (GT × W_GT)
+   + (C × W_C)
+   − (DC × W_DC)
+   + (ST × W_ST)
+   + (RO × W_RO)
+   − (MRO × W_MRO)
+   + (DH × W_DH)
+   + RS
+---
+
+## 👨‍💻 Author
 
 Vansh Srivastava
 B.Tech – Computer Science and Engineering (CSE)
 ShadowFox Data Science Intern
 
-🏢 Internship
+## 🏢 Internship
 
 Organization: ShadowFox
 Domain: Data Science
